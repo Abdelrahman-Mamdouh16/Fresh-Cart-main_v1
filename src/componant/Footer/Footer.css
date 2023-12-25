@@ -1,0 +1,17 @@
+.footer .lowerContinent .img img {
+    width: calc(100% - 80%);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+img{
+    cursor: pointer;
+}
+
+@media screen and (max-width:995px) {
+    .footer .lowerContinent .img img {
+        width:70px; 
+        
+    }
+    
+}

@@ -1,0 +1,5 @@
+@media screen and (width<700px) {
+    .img .col-md-12 img {
+        width: 100%;
+    }
+}

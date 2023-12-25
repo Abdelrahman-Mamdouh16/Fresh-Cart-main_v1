@@ -1,0 +1,21 @@
+.dropdown-menu {
+    --bs-dropdown-min-width: 0rem !important;
+    --bs-dropdown-padding-x: 0 !important;
+    --bs-dropdown-padding-y: 0rem !important;
+
+}
+
+.dropdown-menu[data-bs-popper] {
+    top: 75% !important;
+}
+
+.power {
+    background-color: red;
+    width: 20px;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+}
